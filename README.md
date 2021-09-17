@@ -1,30 +1,16 @@
-# cs50-web-programming
 CS50's Web Programming with Python and JavaScript
 
 HardvarX & EDx course on Web Development using:
 
-1- HTML and CSS
-2- Git
-3- Python
-4- Django
-5- SQL, Models, and Migrations
-6- JavaScript
-7- User Interfaces
-8- Testing and CI/CD
-9- Scalability and Security
+1- HTML and CSS 2- Git 3- Python 4- Django 5- SQL, Models, and Migrations 6- JavaScript 7- User Interfaces 8- Testing and CI/CD 9- Scalability and Security
 
 Projects:
 
-0- Search
-1- Wiki
-2- Commerce
-3- Mail
-4- Network 
+0- Search 1- Wiki 2- Commerce 3- Mail 4- Network
 
 Final Project: Capstone.
 
-The final project is your opportunity to design and implement a dynamic website of your own. 
-So long as your final project draws upon this course’s lessons, the nature of your website will be up to you, subject to some constraints as indicated below.
+The final project is your opportunity to design and implement a dynamic website of your own. So long as your final project draws upon this course’s lessons, the nature of your website will be up to you, subject to some constraints as indicated below.
 
 REQUIREMENTS:
 
@@ -40,8 +26,7 @@ Your web application must utilize Django (including at least one model) on the b
 
 Your web application must be mobile-responsive.
 
-In a README.md in your project’s main directory, include a writeup describing your project, and specifically your file MUST include all of the following:
-Under its own header within the README called Distinctiveness and Complexity: Why you believe your project satisfies the distinctiveness and complexity requirements, mentioned above.
+In a README.md in your project’s main directory, include a writeup describing your project, and specifically your file MUST include all of the following: Under its own header within the README called Distinctiveness and Complexity: Why you believe your project satisfies the distinctiveness and complexity requirements, mentioned above.
 
 What’s contained in each file you created.
 
@@ -56,4 +41,3 @@ Though there is not a hard requirement here, a README.md in the neighborhood of 
 Failure to adhere to these requirements WILL result in a failing grade for the project, and you will need to wait and resubmit.
 
 Beyond these requirements, the design, look, and feel of the website are up to you!
-
