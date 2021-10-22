@@ -1,18 +1,28 @@
-CS50's Web Programming with Python and JavaScript
+# CS50's Web Programming with Python and JavaScript
 
-HardvarX & EDx course on Web Development using:
+## HardvarX & EDx course on Web Development using:
 
-1- HTML and CSS 2- Git 3- Python 4- Django 5- SQL, Models, and Migrations 6- JavaScript 7- User Interfaces 8- Testing and CI/CD 9- Scalability and Security
+* HTML and CSS 
+* Git 
+* Python 
+* Django 
+* SQL, Models, and Migrations 
+* JavaScript 
+* User Interfaces 
+* Testing and CI/CD 
+* Scalability and Security
 
-Projects:
-
-0- Search 1- Wiki 2- Commerce 3- Mail 4- Network
-
-Final Project: Capstone.
+### Projects:
+0. Search 
+1. Wiki 
+2. Commerce 
+3. Mail 
+4. Network
+5. Final Project: Capstone.
 
 The final project is your opportunity to design and implement a dynamic website of your own. So long as your final project draws upon this course’s lessons, the nature of your website will be up to you, subject to some constraints as indicated below.
 
-REQUIREMENTS:
+### REQUIREMENTS:
 
 In this project, you are asked to build a web application of your own. The nature of the application is up to you, subject to a few requirements:
 
@@ -30,7 +40,7 @@ In a README.md in your project’s main directory, include a writeup describing 
 
 What’s contained in each file you created.
 
-How to run your application.
+### How to run your application.
 
 Any other additional information the staff should know about your project.
 
